@@ -25,7 +25,7 @@ const PersonDetail = ({
           </h1>
         </div>
         <div className="n-flight">
-          <span>0</span>
+          <span>{bookings?.length}</span>
         </div>
       </div>
     </div>
