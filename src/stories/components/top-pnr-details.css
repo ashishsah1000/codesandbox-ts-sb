@@ -1,0 +1,13 @@
+i svg {
+  margin: 5px 5px;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.pnr-details-top .d-flex {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.pnr-text {
+  font-weight: 700;
+  font-size: 20px;
+}
