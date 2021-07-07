@@ -1,0 +1,30 @@
+i svg {
+  margin: 5px 5px;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.pnr-details-top .d-flex {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.pnr-text {
+  font-weight: 700;
+  font-size: 20px;
+}
+.pnr-details-top {
+}
+.flight-details {
+  text-align: center;
+  position: relative;
+  right: 20px;
+}
+.n-flight {
+  align-items: center;
+  margin: 0px auto;
+  text-align: center;
+  margin-top: -10px !important;
+  color: rgb(22, 122, 222);
+  font-weight: 600;
+}
+.n-flight span {
+}

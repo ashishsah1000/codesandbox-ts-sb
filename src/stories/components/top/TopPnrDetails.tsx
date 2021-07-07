@@ -1,7 +1,7 @@
 import React from "react";
 import "./top-pnr-details.css";
 import "bootstrap/dist/css/bootstrap.css";
-import { PNR } from "../../types/Types";
+import { PNR } from "../../../types/Types";
 import { Printer } from "react-feather";
 import { Circle } from "react-feather";
 import { Mail } from "react-feather";
